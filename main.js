@@ -6,4 +6,5 @@ class Tomagotchi{
         }
 }
 
-let tomagotchi = new Tomagotchi()
+
+let tomagotchi = new Tomagotchi(toomy)
